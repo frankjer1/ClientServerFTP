@@ -9,6 +9,7 @@ pip install os socket
 You must execute the server script first, then the client one:
 
 python FTPServer.py
+
 python FTPClient.py
 
 
